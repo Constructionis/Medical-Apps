@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-import 'screen/appointment.dart';
 import 'components/top_bar.dart';
 import 'components/covid_service_bar.dart';
 import 'components/service_icons_widget.dart';
 import 'components/history_section.dart';
-import 'screen/home.dart';
 import 'screen/categories.dart';
 
 void main() {
@@ -248,12 +246,12 @@ class ProfileScreen extends StatelessWidget {
           ),
           const SizedBox(height: 16),
           const Text(
-            'John Doe',
+            'Asep Turbo',
             style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
           const SizedBox(height: 8),
           const Text(
-            'johndoe@example.com',
+            'asep33@gmail.com',
             style: TextStyle(fontSize: 16, color: Colors.grey),
           ),
           const SizedBox(height: 24),

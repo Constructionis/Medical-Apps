@@ -25,7 +25,7 @@ class TopBar extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   const Text(
-                    'Hello, Ozan!', // Nama pengguna
+                    'Hello, Asep!', // Nama pengguna
                     style: TextStyle(
                       fontSize: 18,
                       fontWeight: FontWeight.bold,
